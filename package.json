@@ -1,0 +1,25 @@
+{
+  "name": "colour-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "ejs": "^2.4.2",
+    "express": "^4.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gouldie/colour-game.git"
+  },
+  "author": "M.G.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gouldie/colour-game/issues"
+  },
+  "homepage": "https://github.com/Gouldie/colour-game#readme"
+}
